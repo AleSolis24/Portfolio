@@ -41,6 +41,7 @@
     line-height: 1;
   }
   
+  /*new img tag set for my img tag in html */
 img {
     justify-content: left;
     
@@ -77,6 +78,8 @@ img {
     margin-bottom: 45px;
   }
   
+
+  /*changed the text-align to being center to make my text center in the middle for better view  */
   .hero-banner {
     background-image: url(Banner.jpg);
     background-size: cover;
@@ -133,7 +136,7 @@ img {
   .page-section > div {
     flex: 0 0 77%;
   }
-  
+  /*added new text font-size and made the text align to being center*/ 
   .page-section p {
     margin-bottom: 20px;
     font-size: 20px;
@@ -146,6 +149,8 @@ img {
     justify-content: center;
   }
   
+
+  /*changed the height of the max and min to being 300 due to me deleting the other tags  */
   .flex-item {
     border: 5px solid black;
     color: black;
@@ -163,14 +168,16 @@ img {
     font-size: 0.9rem;
   }
   
+/*added heroseon tag for my main work to display in the area to being hover to hover */
+
   .Heroseon:hover {
     background-color: grey;
   }
- 
+ /*Made the new progress tag for my a href and for my WIP container class tag  */
   .Progress:hover {
     background-color: grey;
   }
-  
+  /*created progress div tag to make the padding to 8px and to 10px and to display with flex  */
   .Progress div {
     display: flex;
     padding: 8px 10px;
@@ -207,7 +214,9 @@ img {
     color: lightblue
   }
   
-.Heroseon {
+  /*My heroseon tag to add my horiseon jpg and made it to no repeat and to cover the whole img to the border  */
+  /* and added the width to 100% */ 
+  .Heroseon {
     background-image: url(Horiseon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
