@@ -232,6 +232,8 @@ img {
     display: flex;
 }
 
+
+/*added width of 50% and background-repeat to no repeat and cover so the image can full be displayed  */
 .Progress{
     background-image: url("Workinprogress.jpeg");
     background-repeat: no-repeat;
