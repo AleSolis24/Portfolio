@@ -26,6 +26,7 @@ Also recived helped from classmates from UNCC and Xpertlearner in our bootcampsp
 This CSS sheet was based on the work from BootcampSpot.
 
 Work in progress image:
+
 https://www.istockphoto.com/vector/yellow-warning-sign-work-in-progress-background-gm1253437873-366053835
 
 
