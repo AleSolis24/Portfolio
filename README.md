@@ -26,7 +26,6 @@ Also recived helped from classmates from UNCC and Xpertlearner in our bootcampsp
 This CSS sheet was based on the work from BootcampSpot.
 
 Work in progress image:
-[https://www.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_8562880.htm#query=coming%20soon&position=2&from_view=keyword&track=ais
 ](https://media.istockphoto.com/id/1403062509/vector/yellow-and-black-color-with-line-striped-label-banner-with-word-work-in-process.jpg?b=1&s=612x612&w=0&k=20&c=sfht6b7ajgDFPsIO95KidwdKy4AfJ3ajQKjJ-ICJvYw=)https://media.istockphoto.com/id/1403062509/vector/yellow-and-black-color-with-line-striped-label-banner-with-word-work-in-process.jpg?b=1&s=612x612&w=0&k=20&c=sfht6b7ajgDFPsIO95KidwdKy4AfJ3ajQKjJ-ICJvYw=
 
 
