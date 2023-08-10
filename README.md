@@ -26,7 +26,7 @@ Also recived helped from classmates from UNCC and Xpertlearner in our bootcampsp
 This CSS sheet was based on the work from BootcampSpot.
 
 Work in progress image:
-](https://media.istockphoto.com/id/1403062509/vector/yellow-and-black-color-with-line-striped-label-banner-with-word-work-in-process.jpg?b=1&s=612x612&w=0&k=20&c=sfht6b7ajgDFPsIO95KidwdKy4AfJ3ajQKjJ-ICJvYw=)https://media.istockphoto.com/id/1403062509/vector/yellow-and-black-color-with-line-striped-label-banner-with-word-work-in-process.jpg?b=1&s=612x612&w=0&k=20&c=sfht6b7ajgDFPsIO95KidwdKy4AfJ3ajQKjJ-ICJvYw=
+https://www.istockphoto.com/vector/yellow-warning-sign-work-in-progress-background-gm1253437873-366053835
 
 
 sub header image:
